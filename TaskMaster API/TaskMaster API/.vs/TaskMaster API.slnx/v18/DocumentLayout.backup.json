@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster API\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DEB57-65D9-2510-FE34-96C144F1EF29}|TaskMaster API\\TaskMaster API.csproj|c:\\users\\desktop\\desktop\\doo\\taskmaster\\taskmaster api\\taskmaster api\\taskmaster api\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DEB57-65D9-2510-FE34-96C144F1EF29}|TaskMaster API\\TaskMaster API.csproj|solutionrelative:taskmaster api\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C8DEB57-65D9-2510-FE34-96C144F1EF29}|TaskMaster API\\TaskMaster API.csproj|c:\\users\\desktop\\desktop\\doo\\taskmaster\\taskmaster api\\taskmaster api\\taskmaster api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C8DEB57-65D9-2510-FE34-96C144F1EF29}|TaskMaster API\\TaskMaster API.csproj|solutionrelative:taskmaster api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItemController.cs",
+              "DocumentMoniker": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\Controllers\\TaskItemController.cs",
+              "RelativeDocumentMoniker": "TaskMaster API\\Controllers\\TaskItemController.cs",
+              "ToolTip": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\Controllers\\TaskItemController.cs",
+              "RelativeToolTip": "TaskMaster API\\Controllers\\TaskItemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:37:24.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TaskMaster API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TaskMaster API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T19:35:58.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

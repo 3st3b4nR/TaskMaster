@@ -3050,11 +3050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster API\\TaskMaster API\\TaskMaster API.csproj",
+      "projectUniqueName": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\TaskMaster API.csproj",
       "projectName": "TaskMaster API",
-      "projectPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster API\\TaskMaster API\\TaskMaster API.csproj",
+      "projectPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\TaskMaster API.csproj",
       "packagesPath": "C:\\Users\\desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster API\\TaskMaster API\\obj\\",
+      "outputPath": "C:\\Users\\desktop\\Desktop\\DOO\\TaskMaster\\TaskMaster API\\TaskMaster API\\TaskMaster API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

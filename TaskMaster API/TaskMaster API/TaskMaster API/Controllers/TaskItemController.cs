@@ -1,6 +1,6 @@
 ﻿namespace TaskMaster_API.Controllers
 {
-    public class TasksController
+    public class TaskItemController
     {
     }
 }
